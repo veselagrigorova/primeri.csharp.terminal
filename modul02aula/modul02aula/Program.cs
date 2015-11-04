@@ -11,8 +11,8 @@ namespace modul02aula
 			int a = 0, b = 0; int sum = 0;
 
 			//Събиране на числа
-			a = 66;
-			b = 20; sum = a + b;
+			a = 2;
+			b = 10; sum = a + b;
 				
 
 			//Писане в конзола
@@ -21,6 +21,33 @@ namespace modul02aula
 			Console.Write ( b );
 			Console.Write (" = ");
 			Console.WriteLine ( sum );
+
+			//Допълнителни оператори
+
+			Console.WriteLine ("\nИзползване на +=");
+			a +=b;
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на -=");
+			a -= b;
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на *=");
+			a *= b;
+			Console.WriteLine (a);
+
+			Console.WriteLine ("\nИзползване на ++");
+			a++;
+
+			Console.WriteLine ("Стандартно делене" +( 8/3 ).ToString());
+			Console.WriteLine ("Остатък от  делене" +( 8%3 ).ToString());
+
+
+
+
+
+
+
 		}
 	}
 }
