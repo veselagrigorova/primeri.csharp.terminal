@@ -6,14 +6,7 @@ namespace modul02
 	{
 		public static void Main (string[] args)
 		{
-
+			Console.WriteLine ("Hello World!");
 		}
-		//дефиниране на променливи
-
-
-		//събиране на числа
-
-		//писане в конзола
 	}
 }
-
