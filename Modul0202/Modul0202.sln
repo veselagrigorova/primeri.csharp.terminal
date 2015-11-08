@@ -7,12 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readfromcomandline", "Readf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readfromcomandline1", "Readfromcomandline1\Readfromcomandline1.csproj", "{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableproject", "Tableproject\Tableproject.csproj", "{3E2F551F-AB8F-4C42-B1E8-69CA7F5D6351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2F551F-AB8F-4C42-B1E8-69CA7F5D6351}.Debug|x86.ActiveCfg = Debug|x86
+		{3E2F551F-AB8F-4C42-B1E8-69CA7F5D6351}.Debug|x86.Build.0 = Debug|x86
+		{3E2F551F-AB8F-4C42-B1E8-69CA7F5D6351}.Release|x86.ActiveCfg = Release|x86
+		{3E2F551F-AB8F-4C42-B1E8-69CA7F5D6351}.Release|x86.Build.0 = Release|x86
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Debug|x86.ActiveCfg = Debug|x86
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Debug|x86.Build.0 = Debug|x86
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Release|x86.ActiveCfg = Release|x86
