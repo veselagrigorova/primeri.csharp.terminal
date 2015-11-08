@@ -16,7 +16,19 @@ namespace Readfromcomandline1
 
 			//печат на резултат
 
-			Console.WriteLine ("Резултатът а + b e  " + (a + b ).ToString() + "\n\n\n");
+			Console.WriteLine ("Резултатът а + b e  " + (a + b ).ToString() + "\n");
+			string test = "1";
+			test += ", 2";
+			test += ", 101";
+			test += ", 4";
+			test += ", 5";
+
+			Console.WriteLine ("Събиране с += :" + test + "\n");
+			test = test.Replace (", ", ";" );
+
+			Console.WriteLine ("Работа с Replace: " + test + "\n");
+
+			Console.WriteLine ("Трети знак: " + test.Split(';')[2]);
 		}
 	}
 }
