@@ -3,26 +3,32 @@
 namespace Tableproject
 {
 	class MainClass
+
 	{
+		enum tableindex {ime = 0, familia, godini};
 		public static void Main (string[] args)
 		{
 //			//дефиниране на таблица
 			string [,]table=new string[2,3];
 			//въвеждане на първи ред
-			table [0,0]="Весела";
-			table [0,1] = "Григорова";
-			table[0,2]= "50";
+			table [0,(int)tableindex.ime]="Весела";
+			table [0,(int)tableindex.familia] = "Григорова";
+			table[0,(int)tableindex.godini]= "50";
 			//въвеждане на втори ред
-			table [1,0]="Таня";
-			table [1,1] = "Христова";
-			table[1,2]= "20";
+			table [1,(int)tableindex.ime]="Таня";
+			table [1,(int)tableindex.familia] = "Христова";
+			table[1,(int)tableindex.godini]= "20";
 
 			//ПЕЧАТ
 			Console.Write("Кой ред искате да видите: " );
 			int _index = Convert.ToInt32 (Console.ReadLine ()) - 1;
 
 
-			Console.WriteLine ((table [_index,0])[0]+"."+table [_index,1]+ ", " + table[_index,2] + "г. ");
+			Console.WriteLine ((
+				table [_index,(int)tableindex.ime])[0]+"."+
+				table [_index,(int)tableindex.familia]+ ", " +
+				table[_index,(int)tableindex.godini] + "г. "
+			);
 
 		
 
