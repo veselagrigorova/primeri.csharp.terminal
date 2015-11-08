@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul0202", "Modul0202\Modul0202.csproj", "{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readfromcomandline", "Readfromcomandline\Readfromcomandline.csproj", "{D5D52686-1719-4B7B-9CBF-F1744E78A2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readfromcomandline1", "Readfromcomandline1\Readfromcomandline1.csproj", "{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +17,13 @@ Global
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Debug|x86.Build.0 = Debug|x86
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Release|x86.ActiveCfg = Release|x86
 		{4379A5AA-A3F2-43A9-BB6D-1E479F7D1C87}.Release|x86.Build.0 = Release|x86
+		{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}.Debug|x86.ActiveCfg = Debug|x86
+		{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}.Debug|x86.Build.0 = Debug|x86
+		{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}.Release|x86.ActiveCfg = Release|x86
+		{9B767D1B-EC6D-4C62-82E1-1D8B6BC124DF}.Release|x86.Build.0 = Release|x86
+		{D5D52686-1719-4B7B-9CBF-F1744E78A2CF}.Debug|x86.ActiveCfg = Debug|x86
+		{D5D52686-1719-4B7B-9CBF-F1744E78A2CF}.Debug|x86.Build.0 = Debug|x86
+		{D5D52686-1719-4B7B-9CBF-F1744E78A2CF}.Release|x86.ActiveCfg = Release|x86
+		{D5D52686-1719-4B7B-9CBF-F1744E78A2CF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
