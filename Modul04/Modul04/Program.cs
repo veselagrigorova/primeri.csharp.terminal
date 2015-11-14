@@ -6,9 +6,15 @@ namespace Modul04
 	{
 		public static void Main (string[] args)
 		{
-			for (int i = 6; i > 0; i--)
+			string[] _table = { "Таня", "Дани", "Криста" };
+			//Антетка на таблица
+			Console.WriteLine ("Име");
+			Console.WriteLine ("---------");
+			//тяло на таблица
+			for (int i = 0; i < _table.Length; i++)
+				
 			{
-				Console.WriteLine (i.ToString ());
+				Console.WriteLine (_table[i]);
 				{
 					//код на цикъла
 				}
