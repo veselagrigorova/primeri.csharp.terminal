@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal\Modul04\lisstexplore\bin\Debug\lisstexplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\lisstexplore\bin\Debug\lisstexplore.pdb
+C:\aula\primeri.csharp.terminal\Modul04\lisstexplore\obj\x86\Debug\lisstexplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\lisstexplore\obj\x86\Debug\lisstexplore.pdb

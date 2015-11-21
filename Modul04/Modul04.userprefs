@@ -1,6 +1,10 @@
-﻿<Properties StartupItem="listtexplore\listtexplore.csproj">
+﻿<Properties StartupItem="lisstexplore\lisstexplore.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="listtexplore\Program.cs">
+    <Files>
+      <File FileName="listtexplore\Program.cs" Line="23" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
