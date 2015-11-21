@@ -1,0 +1,3 @@
+C:\aula\primeri.csharp.terminal\Modul04\listesplore\bin\Debug\listesplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\listesplore\obj\x86\Debug\listesplore.exe
+C:\aula\primeri.csharp.terminal\Modul04\listesplore\obj\x86\Debug\listesplore.pdb
